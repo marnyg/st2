@@ -71,7 +71,5 @@ index dac64d8..86cd646 100644
  void draw(void);
  
 +void externalpipe(const Arg *);
- void kscrolldown(const Arg *);
- void kscrollup(const Arg *);
  void printscreen(const Arg *);
  void printsel(const Arg *);
